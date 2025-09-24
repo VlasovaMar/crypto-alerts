@@ -15,10 +15,10 @@ cd crypto-alerts/alerts
 python price_alert.py
 ```
 
-##Roadmap
+## Roadmap
 
- Add email / Telegram notifications
+ ⬜Add email / Telegram notifications
 
- Add more coins
+ ⬜Add more coins
 
- Add historical alert logs
+ ⬜Add historical alert logs
