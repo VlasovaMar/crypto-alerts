@@ -13,8 +13,9 @@ Includes a Python script to notify you when BTC or ETH crosses a threshold.
 git clone https://github.com/YOUR_USERNAME/crypto-alerts.git
 cd crypto-alerts/alerts
 python price_alert.py
+```
 
-Roadmap
+##Roadmap
 
  Add email / Telegram notifications
 
